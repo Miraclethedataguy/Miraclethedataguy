@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-<!--
-**Miraclethedataguy/Miraclethedataguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- I am Miracle Fasunle
+**Miraclethedataguy/Miraclethedataguy** is a datat Analyst who enjoys helping businesses to grow and succed with data analytics and advanced reporting which includes data visualization using visualization tools.
 
 Here are some ideas to get you started:
 
@@ -10,7 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: fasunlemiracle@gmail.com or send message on linkedin
+- 😄 Pronouns: He/Him
+- ⚡ Visit my website:https://github.com/Miraclethedataguy/Miraclethedataguy
