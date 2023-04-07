@@ -1,14 +1,10 @@
-### Hi there 👋
-<!-- I am Miracle Fasunle
-**Miraclethedataguy/Miraclethedataguy** is a datat Analyst who enjoys helping businesses to grow and succed with data analytics and advanced reporting which includes data visualization using visualization tools.
+### Hi my name Miracle Fasunle 👋
+I am an innovative and Detail-Oriented Data Analyst professional with years of experience in Data Analysis, Data Mining, Data Visualization, Statistical Modeling, Operational Analysis, Management Reporting, KYC/AML Compliance, and Sales and customer insight analysis. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 I’m currently working with RKY Consulting Services Limited, UK as an intern
+- 🔭 My current tools with advance Knowledge are SQL, MS Excel,	MS Teams,Power BI,MS Office Suite
+- 🌱 I’m currently learning Python
+- 🤔 I’m looking for a role in analytical field where I can help businesses to grow and success
 - 📫 How to reach me: fasunlemiracle@gmail.com or send message on linkedin
 - 😄 Pronouns: He/Him
 - ⚡ Visit my website:https://github.com/Miraclethedataguy/Miraclethedataguy
