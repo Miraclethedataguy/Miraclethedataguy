@@ -8,4 +8,4 @@ I am an innovative and Detail-Oriented Data Analyst professional with years of e
 - 📫 How to reach me: fasunlemiracle@gmail.com or send message on linkedin
 - 😄 Pronouns: He/Him
 - ⚡ Visit my website:https://github.com/Miraclethedataguy/Miraclethedataguy
-- 📍Liverpool, United kingdom.
+- 📍 Current location:Liverpool, United kingdom.
