@@ -1,5 +1,5 @@
 ### Hi my name Miracle Fasunle 👋
-I am an innovative and Detail-Oriented Data Analyst professional with years of experience in Data Analysis, Data Mining, Data Visualization, Statistical Modeling, Operational Analysis, Management Reporting, KYC/AML Compliance, and Sales and customer insight analysis. 
+I am an innovative and Detail-Oriented Data Analyst professional with years of experience in Data Analysis, Data Mining, Data Visualization, Statistical Modeling, Operations Analysis, Management Reporting, KYC/AML Compliance, and Sales and customer insight analysis. 
 
 - 💬 I’m currently working with RKY Consulting Services Limited, UK as an intern
 - 🔭 My current tools with advance Knowledge are SQL, MS Excel,	MS Teams,Power BI,MS Office Suite
